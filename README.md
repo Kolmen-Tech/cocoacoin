@@ -1,4 +1,26 @@
-## Welcome to cocoa coin Pages
+## Cocoa Coin
+### Introduction
+Kolmen Tech's Meme Coin with value. We will treat her like company share, when company earn profit, we will buy back with higher price, when company need fund to expand and maintain, Yes, we will sell.
+
+> Please feel free to contact us for any topic 
+```
+contact person : lee
+email : lee@o3malaysia.com
+whatapps : 012-6387889
+wechat : leekohching
+telegram : @lkching7
+```
+
+> You may come visit us also
+```
+SPACES Level 23, Menara Exchange 106,
+Lingkaran TRX, Tun Razak Exchange, 
+55188 Kuala Lumpur
+```
+---
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Kolmen-Tech/cocoacoin/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
