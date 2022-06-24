@@ -32,7 +32,7 @@ The detail we will update here once successfully listed.
 ---
 
 ### Cococoin Project
--- ErgoPOS
--- ErgoTemple
--- ErgoMRP for Offset Printing
--- Ergo Kiki NFT
+- ErgoPOS
+- ErgoTemple
+- ErgoMRP for Offset Printing
+- Ergo Kiki NFT
