@@ -25,5 +25,14 @@ Lingkaran TRX, Tun Razak Exchange,
 
 ### How to get Cococoin ?
 Cocoin will be listed to ERGODex
-https://ergodex.io/
+https://ergodex.io 
+
 The detail we will update here once successfully listed.
+
+---
+
+### Cococoin Project
+-- ErgoPOS
+-- ErgoTemple
+-- ErgoMRP for Offset Printing
+-- Ergo Kiki NFT
