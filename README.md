@@ -22,3 +22,8 @@ Lingkaran TRX, Tun Razak Exchange,
 55188 Kuala Lumpur
 ```
 ---
+
+### How to get Cococoin ?
+Cocoin will be listed to ERGODex
+https://ergodex.io/
+The detail we will update here once successfully listed.
